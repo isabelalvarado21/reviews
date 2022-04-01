@@ -1,0 +1,88 @@
+.contenedor {
+  margin: 100px 100px 100px 100px;
+  padding: 0%;
+}
+div {
+  margin: 20px 20px 20px 20px;
+}
+h1 {
+  color: rgb(94, 6, 94);
+  font-weight: bolder;
+}
+p {
+  color: lightslategray;
+}
+.textos {
+  height: 50%;
+  width: 40%;
+}
+.puntaje {
+  height: 50%;
+  width: 60%;
+}
+.superior {
+  display: flex;
+  flex-direction: row;
+}
+
+.puntaje div {
+  background-color: #f1e4e9;
+  height: 40%;
+  width: 70%;
+  padding: 10px 10px;
+  border-radius: 5px;
+  text-align: center;
+  font-weight: bold;
+}
+.puntaje div p {
+  color: rgb(94, 6, 94);
+}
+
+.fa-star {
+  color: #f3ef0c;
+}
+
+#guru {
+  margin-left: 10%;
+}
+#best {
+  margin-left: 20%;
+}
+
+.comentarios {
+  width: 90%;
+}
+.cajitas {
+  display: flex;
+  flex-direction: row;
+}
+.cajitas div {
+  border-radius: 5px;
+  background-color: #7b287d;
+  padding: 30px 30px;
+  font-size: smaller;
+  color: #f8f0fb;
+}
+.cajitas p {
+  color: #f8f0fb;
+}
+.cajitas h6 {
+  color: #9c2478;
+  font-weight: bold;
+}
+img {
+  border-radius: 100%;
+  float: left;
+  max-width: 50px;
+  max-height: 50px;
+}
+#colton {
+  margin-bottom: 7%;
+}
+#irene {
+  margin-top: 5%;
+  margin-bottom: 4%;
+}
+#anna {
+  margin-top: 7%;
+}
